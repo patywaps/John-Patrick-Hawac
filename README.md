@@ -20,7 +20,7 @@
     <h3>Certifications</h3>
     <ul>
       <li>
-        <a href="https://courses.cognitiveclass.ai/certificates/dc187c0dc3174c4b88089dfa83479fa2">
+        <a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee">
           SQL and Relational Databases 101
         </a>
       </li>
