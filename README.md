@@ -24,13 +24,13 @@
           SQL and Relational Databases 101
         </a>
         <a href=" ">
-          Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+          Oracle Cloud Infrastructure 2025 Certified Foundations Associate<b>
         </a>
         <a href=" ">
           Oracle Data Platform 2025 Certified Foundations Associate
         </a>
         <a href=" ">
-          Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate<
+          Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
         </a>
       </li>
     </ul>
