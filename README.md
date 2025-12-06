@@ -23,15 +23,15 @@
     </ul>
 
     <ul>
-        <li><a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee ">Oracle Cloud Infrastructure 2025 Certified Foundations Associate<b></a></li>
+        <li><a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee">Oracle Cloud Infrastructure 2025 Certified Foundations Associate<b></a></li>
     </ul>
         
     <ul>                                                                                                                                                                      
-        <li><a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee ">Oracle Data Platform 2025 Certified Foundations Associate</a></li>
+        <li><a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee">Oracle Data Platform 2025 Certified Foundations Associate</a></li>
     </ul>
         
     <ul>
-        <li><a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee ">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
+        <li><a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
     </ul>
     <p></p>
     <hr />
