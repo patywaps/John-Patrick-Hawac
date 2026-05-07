@@ -30,6 +30,9 @@
     <ul>
         <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=93AE2C9C6B078FB1962CDF8EB31CC03D41295DA2702A452E8F0ABE67FCE84635">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
     </ul>
+    <ul>
+      <li><a href="https://courses.cognitiveclass.ai/certificates/8c762f7b1d914670a1bf74d2639fd8cd">NoSQL and DBaaS 101</li>
+    </ul>
     <p></p>
     <hr />
     <h3>Skill Sets</h3>
