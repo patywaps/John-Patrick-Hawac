@@ -43,6 +43,7 @@ _New Era University_
 - Pentaho
 - Bash Compiler
 - Cisco Pocket Tracer
+- PowerShell
 
 ---
 
